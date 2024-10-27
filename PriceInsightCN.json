@@ -26,7 +26,7 @@
     "https://raw.githubusercontent.com/VeroFess/ffxiv-priceinsight-cn/main/images/image2.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/VeroFess/ffxiv-priceinsight-cn/main/images/icon.png",
-  "Punchline": "在鼠标悬停时查看商品市场价格! 该插件为Price Insight的中国区兼容版, 同时通过换源的方式解决了国内访问 Universalis.app 缓慢的问题",
+  "Punchline": "在鼠标悬停时查看商品市场价格! 该插件为Price Insight的汉化版。
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://github.com/VeroFess/ffxiv-priceinsight-cn/releases/latest/download/latest.zip",
   "DownloadLinkUpdate": "https://github.com/VeroFess/ffxiv-priceinsight-cn/releases/latest/download/latest.zip",

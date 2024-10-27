@@ -9,3 +9,5 @@ Whenever you mouseover an item, it will show you the NQ/HQ marketboard prices at
 ## Installation
 
 Available for install via [Dalamud](https://github.com/goatcorp/FFXIVQuickLauncher)'s built-in plugin installer.
+
+随便弄了个汉化。

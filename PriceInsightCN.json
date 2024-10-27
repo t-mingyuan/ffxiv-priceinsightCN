@@ -5,7 +5,7 @@
   "AssemblyVersion": "2.4.0.0",
   "Description": "每当您将鼠标悬停在商品上时, 这个插件都会在底部显示 NQ/HQ 市场价格以及最近购买的价格.\n价格从 Universalis.app 检索并缓存 90 分钟。\n要刷新价格, 您可以将鼠标悬停在某个项目上的同时点击 Alt .\n",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/VeroFess/ffxiv-priceinsight-cn",
+  "RepoUrl": "https://github.com/t-mingyuan/ffxiv-priceinsightCN",
   "Tags": [
     "marketboard",
     "items",
@@ -21,14 +21,14 @@
   "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://raw.githubusercontent.com/VeroFess/ffxiv-priceinsight-cn/main/images/imagecn.png",
-    "https://raw.githubusercontent.com/VeroFess/ffxiv-priceinsight-cn/main/images/image1.png",
-    "https://raw.githubusercontent.com/VeroFess/ffxiv-priceinsight-cn/main/images/image2.png"
+    "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/imagecn.png",
+    "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/image1.png",
+    "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/image2.png"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/VeroFess/ffxiv-priceinsight-cn/main/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/icon.png",
   "Punchline": "在鼠标悬停时查看商品市场价格! 该插件为Price Insight的汉化版。",
   "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/VeroFess/ffxiv-priceinsight-cn/releases/latest/download/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/VeroFess/ffxiv-priceinsight-cn/releases/latest/download/latest.zip",
-  "DownloadLinkTest": "https://github.com/VeroFess/ffxiv-priceinsight-cn/releases/latest/download/latest.zip"
+  "DownloadLinkInstall": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/releases/latest/download/latest.zip",
+  "DownloadLinkTest": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/releases/latest/download/latest.zip"
 }

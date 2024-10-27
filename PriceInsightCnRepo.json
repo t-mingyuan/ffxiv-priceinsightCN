@@ -29,8 +29,8 @@
     "IconUrl": "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/icon.png",
     "Punchline": "在鼠标悬停时查看商品市场价格! 该插件为Price Insight的汉化版。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/releases/latest/download/latest.zip",
-    "DownloadLinkTest": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/releases/latest/download/latest.zip"
+    "DownloadLinkInstall": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/archive/refs/heads/main.zip",
+    "DownloadLinkUpdate": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/archive/refs/heads/main.zip",
+    "DownloadLinkTest": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/archive/refs/heads/main.zip"
   }
 ]
